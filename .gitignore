@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# I/O files
+*.in
+*.out
